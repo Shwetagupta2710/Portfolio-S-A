@@ -18,7 +18,7 @@ const Footer = ({ isDarkMode }) => {
             alt="Mail Icon"
             className="w-6"
           />
-          <p className="dark:text-white/90">example@example.com</p>
+          <p className="dark:text-white/90">sanchitagarwal108@gmail.com</p>
         </div>
       </div>
 
@@ -46,7 +46,7 @@ const Footer = ({ isDarkMode }) => {
           <li>
             <a
               target="_blank"
-              href="#"
+              href="https://www.linkedin.com/in/sanchit-aggarwal/"
               className="hover:text-gray-700 dark:hover:text-gray-400"
             >
               LinkedIn
