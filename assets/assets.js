@@ -15,7 +15,7 @@ import logo from "./logo-sann (1).png";
 import logo_dark from "./logo-sann (2).png";
 import mail_icon from "./mail_icon.png";
 import mail_icon_dark from "./mail_icon_dark.png";
-import profile_img from "./Sanchit.jpeg";
+//import profile_img from "./Sanchit.jpeg";
 import download_icon from "./download-icon.png";
 import hand_icon from "./hand-icon.png";
 import header_bg_color from "./header-bg-color.png";
